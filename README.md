@@ -40,23 +40,23 @@ Welcome to my GitHub! I’m a passionate software developer with a knack for cra
 
 ## 📈 GitHub Stats  
 
-![Asif's GitHub stats](https://github-readme-stats.vercel.app/api?username=Asifcreative&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Asifcreative&layout=compact&theme=radical)  
+![Asif's GitHub stats](https://github-readme-stats.vercel.app/api?username=asifjaved-dev&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=asifjaved-dev&layout=compact&theme=radical)  
 
 ---
 
 ## 🌐 Find Me Online  
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/asif-javed-creative)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/asifjaved-dev)  
 - 🌍 [Portfolio Website](https://asifjaved.work)  
-- 💡 [CodePen](https://codepen.io/Asif-Javed)  
-- 📚 [freeCodeCamp](https://www.freecodecamp.org/asif-javed)  
+- 💡 [CodePen](https://codepen.io/asifjaved-dev)  
+- 📚 [freeCodeCamp](https://www.freecodecamp.org/asifjaved-dev)  
 
 ---
 
 ## 🤝 Let’s Collaborate  
 
-I’m always open to exciting projects and collaboration opportunities. Feel free to [reach out](https://asifjaved.work/#contact) or drop me an email at **asifjaved.creative@gmail.com**.
+I’m always open to exciting projects and collaboration opportunities. Feel free to [reach out](https://asifjaved.work/) or drop me an email at **asifjaved.creative@gmail.com**.
 
 ---
 
