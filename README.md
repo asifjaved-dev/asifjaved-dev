@@ -1,16 +1,63 @@
-## Hi there 👋
+# Hi there, I'm Asif Javed 👋  
+### 🚀 Full-Stack Developer | Laravel | React.js | WooCommerce Expert  
 
-<!--
-**Asifcreative/Asifcreative** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! I’m a passionate software developer with a knack for crafting scalable web applications, dynamic e-commerce solutions, and user-friendly interfaces. I specialize in Laravel, React.js, and WordPress customization, with a strong focus on performance optimization and clean code.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ My Technical Toolkit  
+
+### **Languages & Frameworks**  
+- **Backend**: PHP (Laravel), Node.js  
+- **Frontend**: React.js, JavaScript, HTML5, CSS3  
+- **WordPress**: Custom Plugin Development, WooCommerce Customization  
+
+### **Database & Hosting**  
+- MySQL, MongoDB  
+- Vercel, Cloudflare, cPanel  
+
+### **Tools & Platforms**  
+- Git, GitHub, Bitbucket  
+- Postman, REST APIs  
+- Composer, npm, Yarn  
+
+---
+
+## 🔥 Highlights of My Work  
+
+### 🚀 **WooCommerce Customization**  
+- Built custom plugins and solutions like Addify Quote integration.  
+- Implemented dynamic filters and multi-level taxonomies using HUSKY and other plugins.  
+
+### 💻 **React.js Projects**  
+- **Drum Machine**: A responsive drum machine showcasing dynamic React components and state management.  
+
+### 🛒 **E-commerce Expertise**  
+- Designed optimized workflows for handling CSV files with over 90,000 products.  
+- Enhanced site performance with Vercel and Cloudflare.  
+
+---
+
+## 📈 GitHub Stats  
+
+![Asif's GitHub stats](https://github-readme-stats.vercel.app/api?username=Asifcreative&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Asifcreative&layout=compact&theme=radical)  
+
+---
+
+## 🌐 Find Me Online  
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/asif-javed-creative)  
+- 🌍 [Portfolio Website](https://asifjaved.work)  
+- 💡 [CodePen](https://codepen.io/Asif-Javed)  
+- 📚 [freeCodeCamp](https://www.freecodecamp.org/asif-javed)  
+
+---
+
+## 🤝 Let’s Collaborate  
+
+I’m always open to exciting projects and collaboration opportunities. Feel free to [reach out](https://asifjaved.work/#contact) or drop me an email at **hello@asifjaved.work**.
+
+---
+
+⭐ **If you find my work inspiring or helpful, don’t forget to star my repositories!**  
