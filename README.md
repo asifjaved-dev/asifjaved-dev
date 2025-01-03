@@ -56,7 +56,7 @@ Welcome to my GitHub! I’m a passionate software developer with a knack for cra
 
 ## 🤝 Let’s Collaborate  
 
-I’m always open to exciting projects and collaboration opportunities. Feel free to [reach out](https://asifjaved.work/#contact) or drop me an email at **hello@asifjaved.work**.
+I’m always open to exciting projects and collaboration opportunities. Feel free to [reach out](https://asifjaved.work/#contact) or drop me an email at **asifjaved.creative@gmail.com**.
 
 ---
 
