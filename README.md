@@ -1,7 +1,7 @@
 # Hi there, I'm Asif Javed 👋  
-### 🚀 Full-Stack Developer | Laravel | React.js | WooCommerce Expert  
+### 🚀 Full-Stack Developer | Laravel | React.js | Next.js | WooCommerce Expert  
 
-Welcome to my GitHub! I’m a passionate software developer with a knack for crafting scalable web applications, dynamic e-commerce solutions, and user-friendly interfaces. I specialize in Laravel, React.js, and WordPress customization, with a strong focus on performance optimization and clean code.  
+Welcome to my GitHub! I’m a passionate software developer with a knack for crafting scalable web applications, dynamic e-commerce solutions, and user-friendly interfaces. I specialize in Laravel, React.js, Next.js and WordPress customization, with a strong focus on performance optimization and clean code.  
 
 ---
 
@@ -9,12 +9,12 @@ Welcome to my GitHub! I’m a passionate software developer with a knack for cra
 
 ### **Languages & Frameworks**  
 - **Backend**: PHP (Laravel), Node.js  
-- **Frontend**: React.js, JavaScript, HTML5, CSS3  
+- **Frontend**: Next.js, React.js, JavaScript, HTML5, CSS3  
 - **WordPress**: Custom Plugin Development, WooCommerce Customization  
 
 ### **Database & Hosting**  
-- MySQL, MongoDB  
-- Vercel, Cloudflare, cPanel  
+- MySQL, PostgreSQL, MongoDB, DynamoDB
+- AWS, Vercel, Cloudflare, cPanel  
 
 ### **Tools & Platforms**  
 - Git, GitHub, Bitbucket  
