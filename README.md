@@ -50,13 +50,13 @@ Welcome to my GitHub! I’m a passionate software developer with a knack for cra
 - 💼 [LinkedIn](https://www.linkedin.com/in/asifjaved-dev)  
 - 🌍 [Portfolio Website](https://asifjaved.work)  
 - 💡 [CodePen](https://codepen.io/asifjaved-dev)  
-- 📚 [freeCodeCamp](https://www.freecodecamp.org/asifjaved-dev)  
+- 📚 [freeCodeCamp](https://www.freecodecamp.org/asifjaved)  
 
 ---
 
 ## 🤝 Let’s Collaborate  
 
-I’m always open to exciting projects and collaboration opportunities. Feel free to [reach out](https://asifjaved.work/) or drop me an email at **asifjaved.creative@gmail.com**.
+I’m always open to exciting projects and collaboration opportunities. Feel free to [reach out](https://asifjaved.work/) or drop me an email at **asifjaveddev@gmail.com**.
 
 ---
 
