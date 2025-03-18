@@ -40,8 +40,10 @@ Welcome to my GitHub! I’m a passionate software developer with a knack for cra
 
 ## 📈 GitHub Stats  
 
-![Asif's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=asifjaved-dev&theme=radical&background=45%2C000000%2C290000&border=EB5454&ring=B72C2C&stroke=EB9797&fire=D5EB00) 
-![Asif's GitHub stats](https://github-readme-stats-git-master-asad-cos-projects.vercel.app/api?username=asifjaved-dev&include_all_commits=true&theme=algolia&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage) 
+![Asif's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=asifjaved-dev&theme=radical&background=45%2C000000%2C290000&border=EB5454&ring=B72C2C&stroke=EB9797&fire=D5EB00)
+
+![Asif's GitHub stats](https://github-readme-stats-git-master-asad-cos-projects.vercel.app/api?username=asifjaved-dev&include_all_commits=true&theme=algolia&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+
 ![Top Languages](https://github-profile-trophy.vercel.app/?username=asifjaved-dev&theme=radical&row=6&column=4&margin-h=15&margin-w=5&no-bg=false) 
 ![state Languages](https://github-readme-stats-nine-sand-37.vercel.app/api/top-langs/?username=asifjaved-dev&theme=gotham&hide_border=false&no-bg=false&no-frame=true&hide=html,css&langs_count=20) 
 
