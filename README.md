@@ -40,8 +40,9 @@ Welcome to my GitHub! I’m a passionate software developer with a knack for cra
 
 ## 📈 GitHub Stats  
 
-![Asif's GitHub stats](https://github-readme-stats.vercel.app/api?username=asifjaved-dev&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=asifjaved-dev&layout=compact&theme=radical)  
+![Asif's GitHub stats](https://github-readme-stats-git-master-asad-cos-projects.vercel.app/api?username=asifjaved-dev&include_all_commits=true&theme=algolia&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)  
+![Top Languages](https://github-readme-stats-nine-sand-37.vercel.app/api/top-langs/?username=asifjaved-dev&theme=gotham&hide_border=false&no-bg=false&no-frame=true&hide=html,css&langs_count=20) 
+
 
 ---
 
